@@ -1,0 +1,23 @@
+footer{
+    background-color: gray;
+    color: honeydew;
+    height: 5em;
+}
+
+nav{
+ background-color: green;   
+ color: white;
+}
+
+a:link{
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover{
+    color: white;
+}
+a:active{
+    color:white;
+}
